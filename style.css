@@ -1,0 +1,34 @@
+.img{
+  height: 65vh;
+  width: 40vw;
+}
+.l{
+    height: 100vh;
+    align-items: center;
+   
+}
+.quote{
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: 'Square Peg', cursive;
+}
+.char{
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: 'Square Peg', cursive; 
+
+}
+.btn{
+    margin-bottom: 10px;
+    border: 1px solid black;
+     border-radius: 15px;
+    
+    background-image: linear-gradient(90deg,#0162c8,#55e7fc);
+    font-size: xx-large;
+    font-family: 'Square Peg', cursive;
+    
+}
+.btn:hover{
+    background-image: linear-gradient(90deg,#55e7fc,#0162c8);
+    box-shadow: 0 0 8px 8px rgba(99, 95, 95, 0.8);
+}
